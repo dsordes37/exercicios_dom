@@ -1,6 +1,6 @@
 # Contador
 
-![imagem do sistema](capa.gif)
+![imagem do site](capa.gif)
 
 Criar um contador com html, css e javascript que tenha:
 
