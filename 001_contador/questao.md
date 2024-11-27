@@ -8,3 +8,6 @@ Criar um contador com html, css e javascript que tenha:
 + Um botão que adiciona um número.
 + Um botão que tira um número.
 + Um botão que zera o contador.
+
+## Demo
+[Demo](https://dsordes37.github.io/exercicios_dom/001_contador)
