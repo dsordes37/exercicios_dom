@@ -10,3 +10,6 @@ Criar um site com 3 botões:
 
 ## Demo
 [Demo](https://dsordes37.github.io/exercicios_dom/002_altera_fundo)
+
+## Home
+[Home](../readme.md)

@@ -11,3 +11,6 @@ Criar um contador com html, css e javascript que tenha:
 
 ## Demo
 [Demo](https://dsordes37.github.io/exercicios_dom/001_contador)
+
+## Home
+[Home](../readme.md)

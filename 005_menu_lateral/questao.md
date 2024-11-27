@@ -10,3 +10,6 @@
 
 ## Demo
 [Demo](https://dsordes37.github.io/exercicios_dom/005_menu_lateral)
+
+## Home
+[Home](../readme.md)

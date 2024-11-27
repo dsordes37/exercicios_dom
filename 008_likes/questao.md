@@ -9,3 +9,6 @@
 
 ## Demo
 [Demo](https://dsordes37.github.io/exercicios_dom/008_likes)
+
+## Home
+[Home](../readme.md)
