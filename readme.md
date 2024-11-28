@@ -1,6 +1,6 @@
 # Exercícios para manipulação do DOM
 
-Entender o Document Object Model (DOM), é de vital importância para o desenvolvimento forn-end com HTML, CSS e JavaScript.
+Entender o Document Object Model (DOM), é de vital importância para o desenvolvimento front-end com HTML, CSS e JavaScript.
 
 Este repositório contém uma lista de exercícios que desfiaram sua lógica de programação e seus conhecimentos sobre o DOM.
 
@@ -19,3 +19,7 @@ Este repositório contém uma lista de exercícios que desfiaram sua lógica de 
 [Exercício 007](007_menu_acordeon_2/questao.md)
 
 [Exercício 008](008_likes/questao.md)
+
+[Exercício 009](009_darkmode/questao.md)
+
+[Exercício 010](010_toggle/questao.md)
